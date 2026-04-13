@@ -53,7 +53,7 @@ grades and attendance built during my engineering studies.
 
 - 💼 Available for **freelance projects** (Web, AI, Mobile)
 - 🌐 Languages: French (native), English (professional)
-- 📧 Email: koyalta@email.com
+- 📧 Email: ktoguede@gmail.com
 - 💼 LinkedIn: linkedin.com/in/koyalta-ndordji
 
 > "Building technology that works for Africa, from Africa."
